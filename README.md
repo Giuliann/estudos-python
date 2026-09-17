@@ -16,6 +16,8 @@ estudos-python/
 │   └── 📁 Lead_Dell
 ├── 📁 fundamentos
 │   ├── 📁 Curso_em_Video
+|   |   ├── 📁 Mundo 1
+|   |   ├── 📁 Mundo 2
 │   └── 📁 Fundacao_Bradesco
 ├── ⚙️ .gitignore
 └── 📝 README
